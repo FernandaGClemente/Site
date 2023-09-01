@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Data Analyst Fernanda G Clemente</title>
+	<atom:link href="https://fernandagclemente.github.io/feed" rel="self" type="application/rss+xml" />
+	<link>https://fernandagclemente.github.io</link>
+	<description>Projeto de construção de um site em WordPress para apresentação dos trabalhos como Analista de Dados .</description>
+	<lastBuildDate>Thu, 31 Aug 2023 21:22:30 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>https://fernandagclemente.github.io/wp-content/uploads/2023/02/LogotipoSimples-Fernanda-Clemente-1.png</url>
+	<title>Data Analyst Fernanda G Clemente</title>
+	<link>https://fernandagclemente.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
+</rss>
