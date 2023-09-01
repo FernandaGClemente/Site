@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre Data Analyst Fernanda G Clemente	</title>
-	<atom:link href="https://fernandagclemente.github.io/comments/feed" rel="self" type="application/rss+xml" />
-	<link>https://fernandagclemente.github.io</link>
+	<atom:link href="https://fernandagclemente.github.io/site/comments/feed" rel="self" type="application/rss+xml" />
+	<link>https://fernandagclemente.github.io/site</link>
 	<description>Projeto de construção de um site em WordPress para apresentação dos trabalhos como Analista de Dados .</description>
 	<lastBuildDate>Thu, 31 Aug 2023 21:22:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
